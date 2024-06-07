@@ -6,11 +6,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-<<<<<<< HEAD:Backend/package.json
-    "start": "node ..src/server.js"
-=======
     "start": "node server.js"
->>>>>>> 4a648fa36cd72692d3083cdd035b9004481cf991:package.json
   },
   "keywords": [],
   "author": "",
