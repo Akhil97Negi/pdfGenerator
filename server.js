@@ -13,7 +13,7 @@ const url = process.env.URI || null;
 
  app.use(express.json());
  app.use(cors({
-   origin : `http://localhost:5173`
+   origin: true
  }))
 
 //users
